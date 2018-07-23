@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/Cavel/Desktop/Asteroids(1.1)(Commented)/Asteroids/Content/Ship.png</File>
+    <File>C:/Users/Cavel/Desktop/Asteroids(1.1)(Commented)/Asteroids/Content/Asteroids.spritefont</File>
+    <File>C:/Users/Cavel/Desktop/Asteroids(1.1)(Commented)/Asteroids/Content/bullet.png</File>
+    <File>C:/Users/Cavel/Desktop/Asteroids(1.1)(Commented)/Asteroids/Content/asteroid.png</File>
+    <File>C:/Users/Cavel/Desktop/Asteroids(1.1)(Commented)/Asteroids/Content/alien.png</File>
+    <File>C:/Users/Cavel/Desktop/Asteroids(1.1)(Commented)/Asteroids/Content/shipgo.png</File>
+    <File>C:/Users/Cavel/Desktop/Asteroids(1.1)(Commented)/Asteroids/Content/Beam.png</File>
+    <File>C:/Users/Cavel/Desktop/Asteroids(1.1)(Commented)/Asteroids/Content/Spark.png</File>
+    <File>C:/Users/Cavel/Desktop/Asteroids(1.1)(Commented)/Asteroids/Content/Star.png</File>
+    <File>C:/Users/Cavel/Desktop/Asteroids(1.1)(Commented)/Asteroids/Content/portal.png</File>
+    <File>C:/Users/Cavel/Desktop/Asteroids(1.1)(Commented)/Asteroids/Content/extraShip.wav</File>
+    <File>C:/Users/Cavel/Desktop/Asteroids(1.1)(Commented)/Asteroids/Content/fire.wav</File>
+    <File>C:/Users/Cavel/Desktop/Asteroids(1.1)(Commented)/Asteroids/Content/saucerBig.wav</File>
+    <File>C:/Users/Cavel/Desktop/Asteroids(1.1)(Commented)/Asteroids/Content/bangLarge.wav</File>
+    <File>C:/Users/Cavel/Desktop/Asteroids(1.1)(Commented)/Asteroids/Content/bangMedium.wav</File>
+    <File>C:/Users/Cavel/Desktop/Asteroids(1.1)(Commented)/Asteroids/Content/bangSmall.wav</File>
+    <File>C:/Users/Cavel/Desktop/Asteroids(1.1)(Commented)/Asteroids/Content/thrust.wav</File>
+    <File>C:/Users/Cavel/Desktop/Asteroids(1.1)(Commented)/Asteroids/Content/beat1.wav</File>
+    <File>C:/Users/Cavel/Desktop/Asteroids(1.1)(Commented)/Asteroids/Content/beat2.wav</File>
+  </SourceFiles>
+</SourceFileCollection>

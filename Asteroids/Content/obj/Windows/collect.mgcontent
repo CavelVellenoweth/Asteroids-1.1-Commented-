@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/Cavel/Desktop/Game Programming project recources/My Game/Asteroids(0.8)/Asteroids/Content/collect.wav</SourceFile>
+  <SourceTime>2017-03-12T15:36:44.0086103+00:00</SourceTime>
+  <DestFile>C:/Users/Cavel/Desktop/Game Programming project recources/My Game/Asteroids(0.8)/Asteroids/Content/bin/Windows/collect.xnb</DestFile>
+  <DestTime>2017-03-12T15:45:59.5926981+00:00</DestTime>
+  <Importer>WavImporter</Importer>
+  <ImporterTime>2017-03-01T15:05:36+00:00</ImporterTime>
+  <Processor>SoundEffectProcessor</Processor>
+  <ProcessorTime>2017-03-01T15:05:36+00:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>
